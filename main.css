@@ -8,6 +8,7 @@ body {
 
 .navbar {
   background: #6ab446;
+  position: relative;
 }
 
 .nav-link,
